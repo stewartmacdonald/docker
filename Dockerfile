@@ -1,5 +1,5 @@
 FROM rocker/verse:3.6.3
-MAINTAINER "Carl Boettiger" cboettig@ropensci.org
+MAINTAINER "Stewart Macdonald"
 
 RUN apt-get update \
   && apt-get install -y --no-install-recommends \
